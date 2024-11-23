@@ -1,0 +1,12 @@
+img {
+  width: 500px;
+}
+
+body {
+  text-align: center;
+  font-family: "Arial";
+  background: rgb(116, 3, 37);
+}
+
+// you can also change styling here, it's a separate file for all your styles or in other words
+// a cascading STYLE sheet
